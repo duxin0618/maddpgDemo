@@ -1,2 +1,5 @@
 # maddpgDemo
-learn maddpg 
+
+`
+python maddpg_training_v1.py
+`
